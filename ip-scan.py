@@ -2,8 +2,7 @@
 
 
 # Usage : Tested work mac air
-# https://www.python-course.eu/threads.php
-# Usage: ./thread-pings.py						# Tested work
+# Usage: ./thread-pings.py						
 
 
 import os, re, threading
